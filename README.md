@@ -1,2 +1,2 @@
 # IBM_AI_CapstoneProject
-Detection of cracks on walls using pretrained deep learning models
+Detection of cracks on walls using pretrained deep learning models (Resbet18)
